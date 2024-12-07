@@ -1,0 +1,3 @@
+[submodule "bio"]
+	path = bio
+	url = https://github.com/chito-jp/bio
