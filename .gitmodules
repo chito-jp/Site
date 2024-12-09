@@ -1,3 +1,6 @@
 [submodule "bio"]
 	path = bio
 	url = https://github.com/chito-jp/bio
+[submodule "policys"]
+	path = policys
+	url = https://github.com/chito-jp/policys
